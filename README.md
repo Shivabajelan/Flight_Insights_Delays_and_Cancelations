@@ -33,7 +33,7 @@ This project follows a standard Business Intelligence workflow:
 
 The Power BI dashboard includes the following key visualisations:
 
-- **Flight Delays by Airport**: Visualize which airports have the highest delay rates.
+- **Flight Delays by Airport**: Visualise which airports have the highest delay rates.
 - **Delay Reasons**: Understand the common causes of delays.
 - **Flight Status by Airline**: Compare on-time performance across airlines.
 - **Time-Series Analysis**: Explore delays and cancellations over time.
