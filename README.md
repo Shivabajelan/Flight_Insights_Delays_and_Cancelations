@@ -29,6 +29,8 @@ This project follows a standard Business Intelligence workflow:
 4. **Design the Dashboard**: The final step is to design a stunning, interactive dashboard that presents the insights in a clear and engaging way.
 ### Star Schema Data Modle:
 ![image](https://github.com/user-attachments/assets/cb708a15-46d8-49e8-8f94-ff2ad85cd64a)
+![image](https://github.com/user-attachments/assets/9fd60f1b-b73a-4874-8b46-4128db76affb)
+
 
 ## Power BI Dashboard
 ![Flight Insights Dashboard](screenshot.png) *(Include a screenshot of your dashboard here)*
