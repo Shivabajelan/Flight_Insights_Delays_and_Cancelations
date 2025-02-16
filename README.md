@@ -27,6 +27,8 @@ This project follows a standard Business Intelligence workflow:
 2. **Build a Relational Data Model**: A relational data model is created to establish relationships between different tables.
 3. **Add Calculated Columns & DAX Measures**: Custom calculations are added to derive additional insights from the data.
 4. **Design the Dashboard**: The final step is to design a stunning, interactive dashboard that presents the insights in a clear and engaging way.
+### Star Schema Data Modle:
+![image](https://github.com/user-attachments/assets/cb708a15-46d8-49e8-8f94-ff2ad85cd64a)
 
 ## Power BI Dashboard
 ![Flight Insights Dashboard](screenshot.png) *(Include a screenshot of your dashboard here)*
