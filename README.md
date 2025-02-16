@@ -28,7 +28,6 @@ This project follows a standard Business Intelligence workflow:
 3. **Add Calculated Columns & DAX Measures**: Custom calculations are added to derive additional insights from the data.
 4. **Design the Dashboard**: The final step is to design a stunning, interactive dashboard that presents the insights in a clear and engaging way.
 ### Star Schema Data Modle:
-![image](https://github.com/user-attachments/assets/cb708a15-46d8-49e8-8f94-ff2ad85cd64a)
 ![image](https://github.com/user-attachments/assets/9fd60f1b-b73a-4874-8b46-4128db76affb)
 
 
